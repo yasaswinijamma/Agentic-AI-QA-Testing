@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Secrets and API Keys
+.env
+
+# MacOS system files
+.DS_Store
