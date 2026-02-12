@@ -1,0 +1,12 @@
+Output:
+
+Automation-Portfolio/Agentic_AI_QA/code.py
+⚠️  MOCK MODE: Simulating LLM responses (Free)
+
+[TEST START] Query: How do autonomous agents work?
+========================================
+--- 🔍 Step 1: Researcher agent gathering data ---
+--- ✍️  Step 2: Writer agent synthesizing summary ---
+FINAL AGENT OUTPUT: Summary: AI agents are independent systems driven by LLM reasoning.
+
+QA Check: Skipped (Mock Mode or Missing API Key)
