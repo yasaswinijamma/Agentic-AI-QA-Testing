@@ -1,6 +1,7 @@
 import os
 from typing import TypedDict
 from dotenv import load_dotenv
+import openai
 
 # LangChain & LangGraph
 from langgraph.graph import StateGraph, START, END
